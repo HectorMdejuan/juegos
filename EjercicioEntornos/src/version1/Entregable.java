@@ -6,7 +6,7 @@ package version1;
 		public void entregar();
 		public void devolver();
 		public boolean isEntregado();
-		public void compareTo(Object a);
+		//public void compareTo(Object a);
 	}
 	
 
